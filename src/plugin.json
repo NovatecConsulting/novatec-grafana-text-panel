@@ -1,0 +1,17 @@
+{
+  "type": "panel",
+  "name": "Text Query",
+  "id": "text-query-panel",
+
+  "info": {
+    "author": {
+      "name": "NovaTec Consulting GmbH",
+      "url": "https://grafana.com"
+},
+    "logos": {
+      "small": "img/icn-text-panel.svg",
+      "large": "img/icn-text-panel.svg"
+    }
+  }
+}
+
